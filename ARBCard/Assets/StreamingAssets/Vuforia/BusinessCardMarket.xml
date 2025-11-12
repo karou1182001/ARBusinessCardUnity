@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="businesscard3" size="0.085000 0.048571" />
+    <ImageTarget name="secondBC" size="0.085000 0.048571" />
+    <ImageTarget name="MariaBusinessCardAR" size="0.085000 0.048571" />
+  </Tracking>
+</QCARConfig>
