@@ -1072,7 +1072,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
   mObserverBehaviour: {fileID: 733248638}
   mHiddenRoot: {fileID: 0}
-  mTargetName: 2
+  mTargetName: Olivia
   mDatasetName: Vuforia/BusinessCardMarket.xml
   mCastedBehaviour: {fileID: 733248638}
   mMeshFilter: {fileID: 0}
@@ -1136,7 +1136,7 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: 2
+  mTrackableName: Olivia
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/BusinessCardMarket.xml
   mAspectRatio: 0.57142353
